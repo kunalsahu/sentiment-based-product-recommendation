@@ -1,5 +1,4 @@
-Demo URL : https://sentiment-based-product-recomm-e7b4403e4f23.herokuapp.com
-
+Demo URL : https://sentiment-based-product-recomm-fbd83d8030fc.herokuapp.com
 # Problem Statement
 The e-commerce business is quite popular today. Here, you do not need to take orders by going to each customer. A company launches its website to sell the items to the end consumer, and customers can order the products that they require from the same website. Famous examples of such e-commerce companies are Amazon, Flipkart, Myntra, Paytm and Snapdeal.
 
@@ -104,5 +103,3 @@ What needs to be submitted for the evaluation of the project?
 - 'index.html' file, which includes the HTML code of the user interface
 - 'app.py' file, which is the Flask file to connect the backend ML model with the frontend HTML code
 - Supported pickle files, which have been generated while pickling the models
-# sentiment-based-product-recommendation
-# sentiment-based-product-recommendation
