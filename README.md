@@ -104,5 +104,3 @@ What needs to be submitted for the evaluation of the project?
 - 'index.html' file, which includes the HTML code of the user interface
 - 'app.py' file, which is the Flask file to connect the backend ML model with the frontend HTML code
 - Supported pickle files, which have been generated while pickling the models
-# sentiment-based-product-recommendation
-# sentiment-based-product-recommendation
