@@ -99,7 +99,7 @@ def normalize_and_lemmatize(input_text):
     lemmas = lemmatize(words)
     return ' '.join(lemmas)
 
-#Recommend the products based on the sentiment from model
+#Recommend the top 5  products based on the sentiment from model
 def recommend_products(user_name):
     recommend_matrix = pk.load(open('pickle_file/user_final_rating.pkl','rb'))
     product_list = pd.DataFrame(recommend_matrix.loc[user_name].sort_values(ascending=False)[0:20])
